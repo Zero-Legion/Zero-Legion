@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm Zero-Legion 👋</h1>
+<h1 align="center">Zero-Legion</h1>
 
 <p align="center">
-  <em>Coder • Builder • Problem Solver</em>
+  <em>Software Engineer | Full-Stack Developer | Technical Problem Solver</em>
 </p>
 
 <p align="center">
@@ -13,17 +13,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🔭 I'm always working on something interesting — check out my pinned repos below.
-- 🌱 Constantly learning and leveling up my skills.
-- 🤝 Open to collaborations on cool and impactful projects.
-- 💬 Ask me about anything — I love a good tech conversation.
-- ⚡ Fun fact: The name *Zero-Legion* means starting from nothing and building an army of ideas.
+- I build scalable and maintainable solutions across the full software development stack.
+- Committed to continuous learning and mastery of modern development practices.
+- Experienced in translating complex requirements into clean, efficient code.
+- Passionate about open-source collaboration and knowledge sharing.
+- Driven by a philosophy of systematic problem-solving and engineering excellence.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Expertise
 
 <p align="left">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" />
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zero-Legion&show_icons=true&theme=tokyonight&hide_border=true" alt="Zero-Legion's GitHub Stats" width="48%" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
 <p align="left">
   <a href="https://github.com/Zero-Legion" target="_blank" rel="noopener noreferrer">
@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-  <i>"Start from zero, build a legion."</i>
+  <i>"Engineering excellence through disciplined practice and continuous improvement."</i>
 </p>
