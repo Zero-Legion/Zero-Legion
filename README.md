@@ -1,4 +1,10 @@
-<h1 align="center">Zero-Legion</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Zero-Legion&fontSize=48&fontColor=ffffff" alt="Zero-Legion" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=520&lines=Software+Engineer;Reverse+Engineer;Deep-Learning+Researcher;Game+Preservation" alt="Typing intro" />
+</p>
 
 <p align="center">
   <em>Software Engineer · Reverse Engineer · Deep-Learning Researcher</em>
@@ -29,9 +35,9 @@
 | Area | Examples |
 | --- | --- |
 | **Medical imaging / DL** | Aortic segmentation pipeline, nested CV, distance losses, ablations, CI-tested PyTorch package |
-| **Reverse engineering** | [rea](https://github.com/Zero-Legion/rea) · [xigncode3-blackdesert](https://github.com/Zero-Legion/xigncode3-blackdesert) · [AnyPS5](https://github.com/Zero-Legion/AnyPS5) |
-| **Game recompilation / mods** | [SVR2011-Recomp](https://github.com/Zero-Legion/SVR2011-Recomp) · [CrimsonDesertMultiplayer](https://github.com/Zero-Legion/CrimsonDesertMultiplayer) · [bloodborne_pc](https://github.com/Zero-Legion/bloodborne_pc) |
-| **Server emulation / preservation** | [kurtzpel-preservation](https://github.com/Zero-Legion/kurtzpel-preservation) · [TurboRivals](https://github.com/Zero-Legion/TurboRivals) · [remielle](https://github.com/Zero-Legion/remielle) · [EpinelPS](https://github.com/Zero-Legion/EpinelPS) |
+| **Reverse engineering** | [rea](https://github.com/Zero-Legion/rea) ![stars](https://img.shields.io/github/stars/Zero-Legion/rea?style=flat&label=%E2%98%85&color=yellow) · [xigncode3-blackdesert](https://github.com/Zero-Legion/xigncode3-blackdesert) ![stars](https://img.shields.io/github/stars/Zero-Legion/xigncode3-blackdesert?style=flat&label=%E2%98%85&color=yellow) · [AnyPS5](https://github.com/Zero-Legion/AnyPS5) ![stars](https://img.shields.io/github/stars/Zero-Legion/AnyPS5?style=flat&label=%E2%98%85&color=yellow) |
+| **Game recompilation / mods** | [SVR2011-Recomp](https://github.com/Zero-Legion/SVR2011-Recomp) ![stars](https://img.shields.io/github/stars/Zero-Legion/SVR2011-Recomp?style=flat&label=%E2%98%85&color=yellow) · [CrimsonDesertMultiplayer](https://github.com/Zero-Legion/CrimsonDesertMultiplayer) ![stars](https://img.shields.io/github/stars/Zero-Legion/CrimsonDesertMultiplayer?style=flat&label=%E2%98%85&color=yellow) · [bloodborne_pc](https://github.com/Zero-Legion/bloodborne_pc) |
+| **Server emulation / preservation** | [kurtzpel-preservation](https://github.com/Zero-Legion/kurtzpel-preservation) ![stars](https://img.shields.io/github/stars/Zero-Legion/kurtzpel-preservation?style=flat&label=%E2%98%85&color=yellow) · [TurboRivals](https://github.com/Zero-Legion/TurboRivals) ![stars](https://img.shields.io/github/stars/Zero-Legion/TurboRivals?style=flat&label=%E2%98%85&color=yellow) · [remielle](https://github.com/Zero-Legion/remielle) ![stars](https://img.shields.io/github/stars/Zero-Legion/remielle?style=flat&label=%E2%98%85&color=yellow) · [EpinelPS](https://github.com/Zero-Legion/EpinelPS) |
 | **Tooling** | [Kytheras-ZZZ-Shader](https://github.com/Zero-Legion/Kytheras-ZZZ-Shader) (Blender add-on) |
 
 ---
@@ -85,6 +91,17 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zero-Legion&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zero-Legion/Zero-Legion/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Zero-Legion/Zero-Legion/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 ---
