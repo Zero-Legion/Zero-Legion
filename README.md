@@ -59,37 +59,28 @@
 **Languages**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,ts,js,zig,powershell,bash,latex&theme=dark" alt="Languages" />
 </p>
 
-**Machine learning**
+**Machine learning and web**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=pytorch,nextjs,react,nodejs&theme=dark" alt="Machine learning and web" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
 </p>
 
-**Tools & practice**
+**Cloud**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=azure,aws&theme=dark" alt="Cloud" />
+</p>
+
+**Tools and platforms**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,blender,windows,linux&theme=dark" alt="Tools and platforms" />
 </p>
 
 ---
