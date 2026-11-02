@@ -1,7 +1,7 @@
 <h1 align="center">Zero-Legion</h1>
 
 <p align="center">
-  <em>Software Engineer | Full-Stack Developer | Technical Problem Solver</em>
+  <em>Software Engineer · Reverse Engineer · Deep-Learning Researcher</em>
 </p>
 
 <p align="center">
@@ -15,23 +15,63 @@
 
 ## About Me
 
-- I build scalable and maintainable solutions across the full software development stack.
-- Committed to continuous learning and mastery of modern development practices.
-- Experienced in translating complex requirements into clean, efficient code.
-- Passionate about open-source collaboration and knowledge sharing.
-- Driven by a philosophy of systematic problem-solving and engineering excellence.
+- 🧠 I work between **low-level systems** (native binaries, game engines, anti-cheat) and **applied deep learning** (medical image segmentation).
+- 🔬 Research: contrast-free **aortic lumen segmentation** with U-Net-family models (nnU-Net-style training, SK operators, MedNeXt, VM-UNet, MedSAM), plus a web demo and manuscript.
+- 🛠️ Reverse engineering: static reconstruction, runtime correlation and formal assurance of protection systems; recompilation and server-emulation projects for games that lost official support.
+- 🎮 Preservation: non-commercial efforts to keep end-of-service games playable.
+- 🌍 Based in Romania; I work in Romanian and English.
+- 📚 Always learning: systematic problem-solving, reproducible experiments, clean and testable code.
+
+---
+
+## What I Work On
+
+| Area | Examples |
+| --- | --- |
+| **Medical imaging / DL** | Aortic segmentation pipeline, nested CV, distance losses, ablations, CI-tested PyTorch package |
+| **Reverse engineering** | [rea](https://github.com/Zero-Legion/rea) · [xigncode3-blackdesert](https://github.com/Zero-Legion/xigncode3-blackdesert) · [AnyPS5](https://github.com/Zero-Legion/AnyPS5) |
+| **Game recompilation / mods** | [SVR2011-Recomp](https://github.com/Zero-Legion/SVR2011-Recomp) · [CrimsonDesertMultiplayer](https://github.com/Zero-Legion/CrimsonDesertMultiplayer) · [bloodborne_pc](https://github.com/Zero-Legion/bloodborne_pc) |
+| **Server emulation / preservation** | [kurtzpel-preservation](https://github.com/Zero-Legion/kurtzpel-preservation) · [TurboRivals](https://github.com/Zero-Legion/TurboRivals) · [remielle](https://github.com/Zero-Legion/remielle) · [EpinelPS](https://github.com/Zero-Legion/EpinelPS) |
+| **Tooling** | [Kytheras-ZZZ-Shader](https://github.com/Zero-Legion/Kytheras-ZZZ-Shader) (Blender add-on) |
 
 ---
 
 ## Technical Expertise
 
+**Languages**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717" />
-  <img src="https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+</p>
+
+**Machine learning**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" />
+</p>
+
+**Tools & practice**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white" />
 </p>
 
 ---
@@ -39,7 +79,7 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zero-Legion&show_icons=true&theme=tokyonight&hide_border=true" alt="Zero-Legion's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zero-Legion&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Zero-Legion's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-Legion&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
